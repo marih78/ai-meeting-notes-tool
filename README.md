@@ -1,1 +1,1 @@
-# ai-meeting-notes-tool2
+# ai-meeting-notes-tool
